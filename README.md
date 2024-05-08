@@ -1,5 +1,5 @@
 # Machine_Learning
- In pursuit of a (Google Advanced Data Analitycs Certificate)[https://www.coursera.org/account/accomplishments/professional-cert/SLXTJYE6FPVF]
+ In pursuit of a [Google Advanced Data Analitycs Certificate](https://www.coursera.org/account/accomplishments/professional-cert/SLXTJYE6FPVF)
  
  I made some Machine Learning projects.
  
